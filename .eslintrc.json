@@ -1,0 +1,13 @@
+{
+  "extends": ["next/core-web-vitals", "xo", "prettier"],
+  "plugins": ["import"],
+  "rules": {
+    "no-undef": "off",
+    "no-unused-vars": "off",
+    "camelcase": "off",
+    "import/first": "error",
+    "import/no-duplicates": "error",
+    "no-duplicate-imports": "error",
+    "capitalized-comments": "off"
+  }
+}
