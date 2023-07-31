@@ -5,9 +5,9 @@
 
 ```js
 // Creates a folder inside the route
-npx create_next_markox_app folder_name
+npx create-next-markox-app folder_name
 // Clone in the actual route without creating a new folder
-npx create_next_markox_app .
+npx create-next-markox-app .
 ```
 
 ## 2. Execution
